@@ -1,0 +1,13 @@
+* {
+  background-color: rgb(166, 145, 233);
+  color: black;
+  font-size: 25px;
+}
+
+.form {
+  margin: 100px 400px;
+}
+#input {
+  border: 2px solid black;
+  
+}
